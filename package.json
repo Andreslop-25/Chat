@@ -1,0 +1,26 @@
+{
+  "name": "Chat",
+  "version": "1.0.0",
+  "description": "servidor socket.io con el ejemplo del chat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start_dev": "nodemon index-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreslop-25/Chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andreslop-25/Chat/issues"
+  },
+  "homepage": "https://github.com/Andreslop-25/Chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.3"
+  }
+}
