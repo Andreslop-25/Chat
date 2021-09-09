@@ -5,3 +5,4 @@ Integrantes
 
 - Andrés Felipe López Rivero
 - Liliana Marcela Díaz Arteaga
+- Edwin Bertel Negrette 
