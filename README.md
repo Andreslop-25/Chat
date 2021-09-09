@@ -4,3 +4,4 @@
 Integrantes
 
 - Andrés Felipe López Rivero
+- Liliana Marcela Diaz Arteaga
